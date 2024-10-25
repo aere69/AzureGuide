@@ -1,0 +1,1 @@
+Invoke-WebRequest -URI http://10.80.0.4 -UseBasicParsing

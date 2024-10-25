@@ -1,2 +1,4 @@
-# AzureGuide
-Azure General Guides and Scripts
+# Azure Guide
+
+Personal journey of Azure.
+A compilation of notes, and scripts.

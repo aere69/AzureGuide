@@ -1,0 +1,1 @@
+Remove-AzResourceGroup -Name 104-App-RG
