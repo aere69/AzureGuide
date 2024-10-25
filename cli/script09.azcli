@@ -1,0 +1,1 @@
+az vmss create -n "app-set" -g "app-grp" --admin-username "appusr" --image Win2022Datacenter --vm-sku "Standard_DS2_v2" 

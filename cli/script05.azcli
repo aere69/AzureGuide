@@ -1,0 +1,5 @@
+az vm image list --output table
+az vm list-sizes --location "North Europe"
+
+az vm create -g "app-grp" -n "appvm" --image Win2022Datacenter
+--admin-username "appusr" --size "Standard_DS2_v2" --vnet-name "app-network" --subnet "SubnetA"
